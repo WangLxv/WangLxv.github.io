@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>在Hexo中写博客测试</title>
+      <link href="/posts/undefined.html"/>
+      <url>/posts/undefined.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="来测试如何实现写博客的基本内容"><a href="#来测试如何实现写博客的基本内容" class="headerlink" title="来测试如何实现写博客的基本内容"></a>来测试如何实现写博客的基本内容</h2><p>其实也就是测测基本语法，接下里需要在这个博客内，完善博客的使用<br>    <img src="https://bu.dusays.com/2022/11/12/636f4b2824b7f.jpg" alt="随便的图" title="随便的图"><br>    可以显示我们的图片，成功了 ，接下来的内容就是掌握一下MarkDown语法的使用，就可以熟练的使用Blog了</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一篇博客</title>
+      <link href="/posts/undefined.html"/>
+      <url>/posts/undefined.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="经历了第一次失败-重映射找不到问题-，只能重开一下了，还好没做多少，这次要记得把配置文件放到CSDN上"><a href="#经历了第一次失败-重映射找不到问题-，只能重开一下了，还好没做多少，这次要记得把配置文件放到CSDN上" class="headerlink" title="经历了第一次失败(重映射找不到问题)，只能重开一下了，还好没做多少，这次要记得把配置文件放到CSDN上"></a>经历了第一次失败(重映射找不到问题)，只能重开一下了，还好没做多少，这次要记得把配置文件放到CSDN上</h2><p> Markdown 文件，也就是md文件，front-master 也就是用于文章配置<br> Page Front-matter 用于页面配置<br> Post Front-matter 用于文章页配置<br> 如果标注可选的参数，可根据自己需要添加，不用全部都写在markdown里</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
