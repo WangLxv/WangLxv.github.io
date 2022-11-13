@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>Hexo博客测试</title>
-      <link href="/2022/11/12/Blog-test/Hexo%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/"/>
-      <url>/2022/11/12/Blog-test/Hexo%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/</url>
+      <title>Hexo 外挂标签的学习</title>
+      <link href="/2022/11/13/Blog-test/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE%E7%9A%84%E5%AD%A6%E4%B9%A0/"/>
+      <url>/2022/11/13/Blog-test/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE%E7%9A%84%E5%AD%A6%E4%B9%A0/</url>
       
-        <content type="html"><![CDATA[<h2 id="来测试如何实现写博客的基本内容"><a href="#来测试如何实现写博客的基本内容" class="headerlink" title="来测试如何实现写博客的基本内容"></a>来测试如何实现写博客的基本内容</h2><p>其实也就是测测基本语法，接下里需要在这个博客内，完善博客的使用<br>    <img src="https://bu.dusays.com/2022/11/12/636f4b2824b7f.jpg" alt="随便的图" title="随便的图"><br>    可以显示我们的图片，成功了 ，接下来的内容就是掌握一下MarkDown语法的使用，就可以熟练的使用Blog了</p>]]></content>
+        <content type="html"><![CDATA[<h4 id="在这里进行外挂标签的语法学习"><a href="#在这里进行外挂标签的语法学习" class="headerlink" title="在这里进行外挂标签的语法学习"></a>在这里进行外挂标签的语法学习</h4><h1 id="配合Markdown的语法学习可以完善我们Bolg"><a href="#配合Markdown的语法学习可以完善我们Bolg" class="headerlink" title="配合Markdown的语法学习可以完善我们Bolg"></a>配合Markdown的语法学习可以完善我们Bolg</h1>]]></content>
       
       
       
@@ -17,11 +17,24 @@
     
     
     <entry>
-      <title>第一篇博客</title>
+      <title>Hexo Markdown语法学习</title>
+      <link href="/2022/11/12/Blog-test/Markdown%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0/"/>
+      <url>/2022/11/12/Blog-test/Markdown%E8%AF%AD%E6%B3%95%E5%AD%A6%E4%B9%A0/</url>
+      
+        <content type="html"><![CDATA[<h4 id="学习使用MarkDown语法来写博客"><a href="#学习使用MarkDown语法来写博客" class="headerlink" title="学习使用MarkDown语法来写博客"></a>学习使用MarkDown语法来写博客</h4><h1 id="这篇的主要内容就是进行MarkDown语法的学习"><a href="#这篇的主要内容就是进行MarkDown语法的学习" class="headerlink" title="这篇的主要内容就是进行MarkDown语法的学习"></a>这篇的主要内容就是进行MarkDown语法的学习</h1>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>第一篇博客及问题归纳</title>
       <link href="/2022/11/11/2022-11-11-%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
       <url>/2022/11/11/2022-11-11-%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
       
-        <content type="html"><![CDATA[<h2 id="经历了第一次失败-重映射找不到问题-，只能重开一下了，还好没做多少，这次要记得把配置文件放到CSDN上"><a href="#经历了第一次失败-重映射找不到问题-，只能重开一下了，还好没做多少，这次要记得把配置文件放到CSDN上" class="headerlink" title="经历了第一次失败(重映射找不到问题)，只能重开一下了，还好没做多少，这次要记得把配置文件放到CSDN上"></a>经历了第一次失败(重映射找不到问题)，只能重开一下了，还好没做多少，这次要记得把配置文件放到CSDN上</h2><p> Markdown 文件，也就是md文件，front-master 也就是用于文章配置<br> Page Front-matter 用于页面配置<br> Post Front-matter 用于文章页配置<br> 如果标注可选的参数，可根据自己需要添加，不用全部都写在markdown里</p><h2 id="问题-本地出现的文章在修改过后可以正确进入了，但是已经进入引入自己域名的网址，却没有办法进入新的文章，一直指向第一篇文章"><a href="#问题-本地出现的文章在修改过后可以正确进入了，但是已经进入引入自己域名的网址，却没有办法进入新的文章，一直指向第一篇文章" class="headerlink" title="问题:  本地出现的文章在修改过后可以正确进入了，但是已经进入引入自己域名的网址，却没有办法进入新的文章，一直指向第一篇文章"></a>问题:  本地出现的文章在修改过后可以正确进入了，但是已经进入引入自己域名的网址，却没有办法进入新的文章，一直指向第一篇文章</h2><p> 在尝试后发现，不管如何修改，一直都会进入同一个 html</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="文章与页面配置的问题"><a href="#文章与页面配置的问题" class="headerlink" title="文章与页面配置的问题"></a>文章与页面配置的问题</h2><p> Markdown 文件，也就是md文件，front-master 也就是用于文章配置<br> Page Front-matter 用于页面配置<br> Post Front-matter 用于文章页配置<br> 如果标注可选的参数，可根据自己需要添加，不用全部都写在markdown里</p><h2 id="本地出现的文章在修改过后可以正确进入了，但是已经进入引入自己域名的网址，却没有办法进入新的文章，一直指向第一篇文章"><a href="#本地出现的文章在修改过后可以正确进入了，但是已经进入引入自己域名的网址，却没有办法进入新的文章，一直指向第一篇文章" class="headerlink" title="本地出现的文章在修改过后可以正确进入了，但是已经进入引入自己域名的网址，却没有办法进入新的文章，一直指向第一篇文章"></a>本地出现的文章在修改过后可以正确进入了，但是已经进入引入自己域名的网址，却没有办法进入新的文章，一直指向第一篇文章</h2><p> 在尝试后发现，不管如何修改，一直都会进入同一个 html<br> 在视频过后我查看了一下，可能需要重新部署github ，所以我们在vscode的这一块<br> 使用 hexo c &#x2F; hexo g &#x2F; hexo d，进行重新部署<br> hexo c1;hexo s 刷新，也是发现我们成功的进入到我们的文章里了</p><h2 id="关于图库问题"><a href="#关于图库问题" class="headerlink" title="关于图库问题"></a>关于图库问题</h2><p>个人搭建图库存在的问题是没有办法使用Picgo进行保存，不知道出了什么问题，一直上传失败，所以直接用别人的图库 (去不图库)</p>]]></content>
       
       
       
