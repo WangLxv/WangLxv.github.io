@@ -4,9 +4,9 @@
   
     
     <entry>
-      <title>在Hexo中写博客测试</title>
-      <link href="/posts/undefined.html"/>
-      <url>/posts/undefined.html</url>
+      <title>Hexo博客测试</title>
+      <link href="/2022/11/12/Blog-test/Hexo%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/"/>
+      <url>/2022/11/12/Blog-test/Hexo%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/</url>
       
         <content type="html"><![CDATA[<h2 id="来测试如何实现写博客的基本内容"><a href="#来测试如何实现写博客的基本内容" class="headerlink" title="来测试如何实现写博客的基本内容"></a>来测试如何实现写博客的基本内容</h2><p>其实也就是测测基本语法，接下里需要在这个博客内，完善博客的使用<br>    <img src="https://bu.dusays.com/2022/11/12/636f4b2824b7f.jpg" alt="随便的图" title="随便的图"><br>    可以显示我们的图片，成功了 ，接下来的内容就是掌握一下MarkDown语法的使用，就可以熟练的使用Blog了</p>]]></content>
       
@@ -18,10 +18,10 @@
     
     <entry>
       <title>第一篇博客</title>
-      <link href="/posts/undefined.html"/>
-      <url>/posts/undefined.html</url>
+      <link href="/2022/11/11/2022-11-11-%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2022/11/11/2022-11-11-%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
       
-        <content type="html"><![CDATA[<h2 id="经历了第一次失败-重映射找不到问题-，只能重开一下了，还好没做多少，这次要记得把配置文件放到CSDN上"><a href="#经历了第一次失败-重映射找不到问题-，只能重开一下了，还好没做多少，这次要记得把配置文件放到CSDN上" class="headerlink" title="经历了第一次失败(重映射找不到问题)，只能重开一下了，还好没做多少，这次要记得把配置文件放到CSDN上"></a>经历了第一次失败(重映射找不到问题)，只能重开一下了，还好没做多少，这次要记得把配置文件放到CSDN上</h2><p> Markdown 文件，也就是md文件，front-master 也就是用于文章配置<br> Page Front-matter 用于页面配置<br> Post Front-matter 用于文章页配置<br> 如果标注可选的参数，可根据自己需要添加，不用全部都写在markdown里</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="经历了第一次失败-重映射找不到问题-，只能重开一下了，还好没做多少，这次要记得把配置文件放到CSDN上"><a href="#经历了第一次失败-重映射找不到问题-，只能重开一下了，还好没做多少，这次要记得把配置文件放到CSDN上" class="headerlink" title="经历了第一次失败(重映射找不到问题)，只能重开一下了，还好没做多少，这次要记得把配置文件放到CSDN上"></a>经历了第一次失败(重映射找不到问题)，只能重开一下了，还好没做多少，这次要记得把配置文件放到CSDN上</h2><p> Markdown 文件，也就是md文件，front-master 也就是用于文章配置<br> Page Front-matter 用于页面配置<br> Post Front-matter 用于文章页配置<br> 如果标注可选的参数，可根据自己需要添加，不用全部都写在markdown里</p><h2 id="问题-本地出现的文章在修改过后可以正确进入了，但是已经进入引入自己域名的网址，却没有办法进入新的文章，一直指向第一篇文章"><a href="#问题-本地出现的文章在修改过后可以正确进入了，但是已经进入引入自己域名的网址，却没有办法进入新的文章，一直指向第一篇文章" class="headerlink" title="问题:  本地出现的文章在修改过后可以正确进入了，但是已经进入引入自己域名的网址，却没有办法进入新的文章，一直指向第一篇文章"></a>问题:  本地出现的文章在修改过后可以正确进入了，但是已经进入引入自己域名的网址，却没有办法进入新的文章，一直指向第一篇文章</h2><p> 在尝试后发现，不管如何修改，一直都会进入同一个 html</p>]]></content>
       
       
       
