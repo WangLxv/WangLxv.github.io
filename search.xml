@@ -4,6 +4,45 @@
   
     
     <entry>
+      <title>信号与系统复习-第一讲</title>
+      <link href="/2022/11/26/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E5%A4%8D%E4%B9%A0/"/>
+      <url>/2022/11/26/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E5%A4%8D%E4%B9%A0/</url>
+      
+        <content type="html"><![CDATA[<h2 id="考点一-周期信号与非周期信号的判断"><a href="#考点一-周期信号与非周期信号的判断" class="headerlink" title="考点一 周期信号与非周期信号的判断"></a>考点一 周期信号与非周期信号的判断</h2><p>形如: sin(ak+2kΠ)/cos(ak+2mΠ)</p><pre><code>                   整数n        T=n</code></pre><p>判断方法: 2Π/b = N/m =  有理分数     T=分子n<br>                       无理数(带Π) 非周期</p><h2 id="考点二-冲击信号的筛选信及取样信"><a href="#考点二-冲击信号的筛选信及取样信" class="headerlink" title="考点二 冲击信号的筛选信及取样信"></a>考点二 冲击信号的筛选信及取样信</h2><p><img src="https://bu.dusays.com/2022/11/26/6381d3daaebb3.png" alt="信号" title="信号"></p><h2 id="考点三-画图"><a href="#考点三-画图" class="headerlink" title="考点三 画图"></a>考点三 画图</h2><p>1、 先反转 再尺度 后平移(由外道内)<br>2、 由内到外</p><h2 id="考点四-线性时不变系统判断"><a href="#考点四-线性时不变系统判断" class="headerlink" title="考点四 线性时不变系统判断"></a>考点四 线性时不变系统判断</h2><p>1、 f(t)-&gt; lg -&gt; 非线性<br>2、 sin (f(t)) -&gt; 时不变  sintf(t) -&gt;时变<br>3、 cf(t) f(ct)  (c!=1) -&gt; 时变   非线性<br>4、 f(t)+- c 时不变 非线性</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>信号与系统复习-第二讲</title>
+      <link href="/2022/11/26/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E5%A4%8D%E4%B9%A0%E7%AC%AC%E4%BA%8C%E8%AE%B2/"/>
+      <url>/2022/11/26/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F/%E4%BF%A1%E5%8F%B7%E4%B8%8E%E7%B3%BB%E7%BB%9F%E5%A4%8D%E4%B9%A0%E7%AC%AC%E4%BA%8C%E8%AE%B2/</url>
+      
+        <content type="html"><![CDATA[<h2 id="考点一-零输入响应求解"><a href="#考点一-零输入响应求解" class="headerlink" title="考点一 零输入响应求解"></a>考点一 零输入响应求解</h2><p>方法： 其次方程通解加条件<br><img src="https://bu.dusays.com/2022/11/26/638201460be17.png" alt="信号" title="信号"></p><h2 id="考点二-单位冲击响应"><a href="#考点二-单位冲击响应" class="headerlink" title="考点二 单位冲击响应"></a>考点二 单位冲击响应</h2><p>解法同上<br><img src="https://bu.dusays.com/2022/11/26/6382075f6e6c8.png" alt="信号" title="信号"></p><h2 id="考点三-卷积"><a href="#考点三-卷积" class="headerlink" title="考点三 卷积"></a>考点三 卷积</h2><p><img src="https://bu.dusays.com/2022/11/26/638212edb6e77.png" alt="信号" title="信号"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>英语四级</title>
+      <link href="/2022/11/22/%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7/English4/"/>
+      <url>/2022/11/22/%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7/English4/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>K210测距模块使用</title>
       <link href="/2022/11/20/K210/%E6%B5%8B%E8%B7%9D%E6%A8%A1%E5%9D%97%E4%BD%BF%E7%94%A8/"/>
       <url>/2022/11/20/K210/%E6%B5%8B%E8%B7%9D%E6%A8%A1%E5%9D%97%E4%BD%BF%E7%94%A8/</url>
